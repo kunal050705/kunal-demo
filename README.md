@@ -1,2 +1,3 @@
 # kunal-demo
-my first repository
+My first git repository.
+Author - Kunal Manhas

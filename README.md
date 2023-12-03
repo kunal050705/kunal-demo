@@ -1,4 +1,4 @@
 # kunal-demo
 My first git repository.
 <br>
-Author - Kunal Manhas
+Author - Kunal (IIT BHU)
